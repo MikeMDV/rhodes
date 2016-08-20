@@ -1,7 +1,7 @@
 Project 2 README
 
 Michael Marven
-CS372 400 Winter 2016
+CS*** *** Winter 2016
 
 File list:
     
@@ -10,7 +10,7 @@ File list:
     ftclient
     README.txt
 
-All programs were compiled and tested on OSU flip.
+All programs were compiled and tested on *** ****.
 
 
 Ftserve compilation
@@ -75,7 +75,7 @@ combination of -g with a valid file name will retrieve a file from the server.
 Once the file or directory listing is retrieved, the program ends.
 
 
-Extra credit
+***** ******
 
 The server is multithreaded and can accept up to 5 
 client connections. It uses fork() to spawn child processes that communicate 

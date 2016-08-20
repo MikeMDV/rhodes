@@ -2,7 +2,7 @@
 #             Author: Michael Marven
 #       Date Created: 03/05/16
 # Last Date Modified: 03/05/16
-#            Purpose: Makefile for CS372 Project 2 ftserve program
+#            Purpose: Makefile for CS*** Project 2 ftserve program
 #
 #
 
